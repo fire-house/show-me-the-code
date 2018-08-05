@@ -9,7 +9,7 @@
 - 本文本文由@史江歌（shijiangge@gmail.com  QQ:499065469）根据互联网资料收集整理而成，感谢互联网，感谢各位的分享。鸣谢！本文会不断更新。
 
 > Talk is cheap. Show me the code.--Linus Torvalds
-
+> Study step by step, I'll get it.--fire-house
 ----------
  
 **第 0000 题：** 将你的 QQ 头像（或者微博头像）右上角加上红色的数字，类似于微信未读信息数量那种提示效果。
